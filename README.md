@@ -1,10 +1,10 @@
 # Stock-Analysis
 Diversifying within green energy
 
-### Background
+## Background
 In uncovering a complete disregard for diversification in his parent's stock portfolio (100% investment in 'DQ'), Steve asked around for tools to help find promising stocks to diversify. A VBA project is created to facilitate this project, showing trading frequency and yearly return by ticker for green energy stocks, 2017 to 2018.
 
-### Results
+## Results
 As in most investing, clients wish to see the highest return on investment. My analysis highlights three of the highest returning stocks from 2017 as ENPH, FSLR, and SEDG with 129.5%, 101.3% and 184.5% respectively. For 2018, only ENPH and RUN saw positive returns at 81.9% and 84.0% respectively. Forward looking, RUN is traded actively, trading volume increased 87.8% between 2017 and 2018. Daily trading volume is noted as a measure of price accuracy by Steve's parents, "They believe that if a stock is traded often, then the price will accurately reflect the value of the stock".
 
 Shortly speaking, look towards **RUN** and **ENPH** to diversify your green energy portfolio as both increased return with increase pricing accuracy from 2017 to 2018.
